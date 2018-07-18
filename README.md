@@ -1,4 +1,4 @@
-# APPIUM #
+# RF + APPIUM #
 Appium + Robot Framework# check the mobile devices connected.
 
 ## Notes ##
